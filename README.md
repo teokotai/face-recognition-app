@@ -1,0 +1,1 @@
+This Python-based Facial Recognition App provides an intuitive graphical user interface (GUI) for face detection and recognition using OpenCV, face_recognition, and CustomTkinter. Users can easily acquire images, add recognized faces to a local database, and perform face matching.
